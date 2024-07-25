@@ -5,7 +5,7 @@ require("dotenv").config();
 
 
   module.exports = {
-    solidity: "0.8.19",
+    solidity: "0.8.20",
     networks: {
       swisstronik: {
         url: "https://json-rpc.testnet.swisstronik.com/", //URL of the RPC node for Swisstronik.
